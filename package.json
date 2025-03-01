@@ -11,12 +11,12 @@
     {
       "name": "frigate",
       "title": "Frigate",
-      "description": "Show your frigate frames as well as link to videos streams.",
+      "description": "Show your frigate frames as well as link to video streams.",
       "mode": "view"
     }
   ],
   "dependencies": {
-    "@raycast/api": "latest",
+    "@raycast/api": "^1.93.0",
     "title-case": "^4.3.2"
   },
   "devDependencies": {
